@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menghitung Balok</string>
+    <string name="length">panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+    <string name="mari_menghitung_volume">Mari Menghitung Volume</string>
+</resources>
